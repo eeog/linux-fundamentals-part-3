@@ -1,0 +1,12 @@
+UNIT                            LOAD   ACTIVE SUB     DESCRIPTION
+cron.service                    loaded active running Regular background program processing daemon
+ssh.service                     loaded active running OpenBSD Secure Shell server
+apache2.service                 loaded active running The Apache HTTP Server
+systemd-journald.service        loaded active running Journal Service
+systemd-logind.service          loaded active running Login Service
+ufw.service                     loaded active running Uncomplicated Firewall
+fail2ban.service                loaded active running Fail2Ban Service
+
+LOAD   = Reflects if the unit definition was properly loaded.
+ACTIVE = High-level unit activation state.
+SUB    = Low-level unit activation state.
