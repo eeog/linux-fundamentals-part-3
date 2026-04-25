@@ -1,0 +1,21 @@
+[*] Starting system investigation script...
+---------------------------------------------
+[*] Collecting system information...
+User: root
+Hostname: ubuntu
+Date: Sat Apr 25 09:15:00 UTC 2026
+
+[*] Capturing running processes...
+[+] Process list saved to evidence/process-list.txt
+
+[*] Checking active services...
+[+] Active services saved to evidence/active-services.txt
+
+[*] Demonstrating background task...
+[+] Background task started with PID: 1389
+
+[*] Collecting authentication logs...
+[+] Authentication log copied to evidence/auth.log
+
+[*] Investigation script completed.
+---------------------------------------------
