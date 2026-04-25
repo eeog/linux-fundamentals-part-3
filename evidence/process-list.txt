@@ -1,0 +1,9 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 167280  1128 ?        Ss   09:12   0:02 /sbin/init
+root       412  0.0  0.3  45200  3456 ?        Ss   09:12   0:00 /lib/systemd/systemd-journald
+root       589  0.0  0.2  28640  2140 ?        Ss   09:12   0:00 /usr/sbin/cron -f
+root       601  0.0  0.5  94520  5120 ?        Ss   09:12   0:01 /usr/sbin/sshd -D
+www-data  1024  0.1  1.2 256840 12400 ?        S    09:13   0:03 /usr/sbin/apache2 -k start
+www-data  1025  0.0  1.1 256840 11320 ?        S    09:13   0:01 /usr/sbin/apache2 -k start
+root      1342  0.0  0.3  20000  3100 pts/0    Ss   09:15   0:00 bash
+root      1378  0.0  0.1  17500  1500 pts/0    R+   09:15   0:00 ps aux
