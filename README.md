@@ -1,9 +1,6 @@
 # Linux Fundamentals Part 3 — Investigation Project
 
-This project documents my hands‑on work from TryHackMe’s *Linux Fundamentals Part 3* room.  
-It focuses on practical Linux skills used in security operations, system administration, and endpoint investigations.
-
-The goal of this project is to demonstrate my ability to work confidently on a Linux system, investigate processes, manage services, analyse logs, transfer files securely, and understand how Linux behaves under the hood — all essential skills for SOC and cyber security roles.
+This project builds on my previous Linux investigation work and expands it with more advanced, hands‑on exercises. It demonstrates practical skills used in security operations, including process analysis, service management, log review, secure file transfer, and understanding core Linux behaviour. These capabilities are essential for SOC analysts and cybersecurity roles that require confident navigation and investigation of Linux systems.
 
 ---
 
