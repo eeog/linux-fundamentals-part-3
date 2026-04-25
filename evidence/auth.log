@@ -1,0 +1,8 @@
+Apr 25 09:12:44 ubuntu sshd[601]: Server listening on 0.0.0.0 port 22.
+Apr 25 09:12:44 ubuntu sshd[601]: Server listening on :: port 22.
+Apr 25 09:13:02 ubuntu sshd[742]: Accepted password for analyst from 192.168.1.50 port 53422 ssh2
+Apr 25 09:13:02 ubuntu sshd[742]: pam_unix(sshd:session): session opened for user analyst by (uid=0)
+Apr 25 09:14:10 ubuntu sudo: analyst : TTY=pts/0 ; PWD=/home/analyst ; USER=root ; COMMAND=/usr/bin/systemctl status apache2
+Apr 25 09:14:55 ubuntu sshd[742]: pam_unix(sshd:session): session closed for user analyst
+Apr 25 09:15:01 ubuntu CRON[589]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 25 09:15:01 ubuntu CRON[589]: pam_unix(cron:session): session closed for user root
